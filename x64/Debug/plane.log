@@ -1,0 +1,10 @@
+﻿  plane.cpp
+D:\Programming\VS\Projects\plane\plane.cpp(143,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Programming\VS\Projects\plane\plane.cpp(296,29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Programming\VS\Projects\plane\plane.cpp(298,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Programming\VS\Projects\plane\plane.cpp(421,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Programming\VS\Projects\plane\plane.cpp(465,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Programming\VS\Projects\plane\plane.cpp(715,14): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programming\VS\Projects\plane\plane.cpp(717,14): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programming\VS\Projects\plane\plane.cpp(719,14): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  plane.vcxproj -> D:\Programming\VS\Projects\plane\x64\Debug\plane.exe
